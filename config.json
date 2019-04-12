@@ -1,5 +1,5 @@
 {
-    "server_ip":"http://localhost",
+    "server_ip":"http://rapids.test1934.net",
     "cuXfilter_port_external":3000,
     "demos_serve_port_external": 3004,
     "gtc_demo_port_external": 3005,
@@ -7,6 +7,6 @@
     "sanic_server_port_pandas_internal": 3003,
     "jupyter_port": 3009,
     "whitelisted_urls_for_clients": ["http://localhost:3000"],
-    "demo_mapbox_token": "",
+    "demo_mapbox_token": "pk.eyJ1IjoiZGtpbTc3NyIsImEiOiJjanM5Nm8xZDMwZnZ2NDNxa28yb3J5N3h5In0.iTcllSRn0Q08aLzyBqFZKg",
     "demo_dataset_name": "146M_predictions_v2"
 }
